@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ain/Desktop/projects/learning_raylib/0/src/main.cxx
+GLFW/glfw3.h
+-
+iostream
+-
+raylib.h
+-
+vector
+-
+
+/home/ain/Desktop/projects/raylib/raylib-3.7.0/raylib/include/raylib.h
+stdarg.h
+-
+stdbool.h
+-
+

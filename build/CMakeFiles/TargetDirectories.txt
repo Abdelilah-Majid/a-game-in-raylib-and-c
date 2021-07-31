@@ -1,0 +1,3 @@
+/home/ain/Desktop/projects/learning_raylib/0/build/CMakeFiles/rebuild_cache.dir
+/home/ain/Desktop/projects/learning_raylib/0/build/CMakeFiles/edit_cache.dir
+/home/ain/Desktop/projects/learning_raylib/0/build/CMakeFiles/0.dir

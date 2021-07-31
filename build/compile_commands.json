@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ain/Desktop/projects/learning_raylib/0/build",
+  "command": "/usr/bin/c++   -I/home/ain/Desktop/projects/learning_raylib/0/include -I/home/ain/Desktop/projects/raylib/raylib-3.7.0/raylib/include   -std=c++14 -Wall -Wextra   -o CMakeFiles/0.dir/src/main.cxx.o -c /home/ain/Desktop/projects/learning_raylib/0/src/main.cxx",
+  "file": "/home/ain/Desktop/projects/learning_raylib/0/src/main.cxx"
+}
+]
